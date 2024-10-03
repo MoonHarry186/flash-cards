@@ -33,7 +33,7 @@ export default {
     {
       name: 'dateCreated',
       title: 'Date Created',
-      type: 'date',
+      type: 'datetime',
     },
   ],
 }

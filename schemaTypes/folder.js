@@ -22,8 +22,8 @@ export default {
             ]
         },
         {
-            name: 'course',
-            title: 'Course',
+            name: 'courses',
+            title: 'Courses',
             type: 'array',
             of: [
                 {type: 'course'}
